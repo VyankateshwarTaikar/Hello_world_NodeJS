@@ -224,7 +224,7 @@ Add with Internet Gateway and Route Table
 
 ![Screenshot_57](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/89b98ae6-eba7-4999-96d6-f0d100c216d1)
 
-## ==> Go to the Actions tab where the our repository . you can check with running current Deployment.
+## ==> Go to the Actions tab where the our repository . You can check with running current Deployment.
 
 
 ![Screenshot_58](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/bcfacf41-cb5a-4274-917b-9fadaed7d0c7)
