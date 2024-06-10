@@ -84,7 +84,7 @@ Creating terraform files
 ![Screenshot_10](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/310153d1-7906-455d-b570-f63014807975)
 
 
-Check with AWS Account for VPC is created or not. 
+== > Check with AWS Account for VPC is created or not. 
 
 ![Screenshot_11](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/3039cf2d-9ba6-4787-afdc-287d997ae99e)
 
@@ -120,7 +120,7 @@ Now , Create subnets so edit vpc.tf
 ![Screenshot_19](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/e289c45f-f7bc-403e-8e36-0bdefa85915c)
 
 
-Check with subnets are created not .
+== >Check with subnets are created or not.
 
 ![Screenshot_20](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/8b8a9923-738f-4277-9dce-87905781c334)
 
