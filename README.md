@@ -218,10 +218,27 @@ Now , Create subnets so edit vpc.tf
 
 
 # 6    ======>>   ======>>    ======>>   
-## Access With the Application for Hellow World 
-As you Update he vpc.tf  it will automatically run the  Github actions. 
+## Access With the Application for Hello World 
+As you Update the vpc.tf  it will automatically run the  Github actions. 
 Add with Internet Gateway and Route Table 
 
 ![Screenshot_57](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/89b98ae6-eba7-4999-96d6-f0d100c216d1)
 
+## ==> Go to the Actions tab where the our repository . you can check with running current Deployment.
 
+
+![Screenshot_58](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/bcfacf41-cb5a-4274-917b-9fadaed7d0c7)
+
+![Screenshot_59](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/2d9497d4-146c-4572-8966-108301def2d7)
+
+![Screenshot_59_](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/83bcdb8b-f775-4db1-9e87-5b81c2054bd3)
+
+![Screenshot_60](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/f40bb0d0-d41d-446b-af93-fa87b7b8615d)
+
+![Screenshot_61](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/e9e6d519-6f87-445b-91f7-c890f1cc3efe)
+
+![Screenshot_62](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/e0cd6ebd-3964-4496-8502-c71632ccd1e1) 
+
+Now , Remove the infrastructure from AWS Account.
+
+# I've successfully launched the Hello World application with Node.js.   Thank you  !
