@@ -21,8 +21,9 @@ Find out required Application and infrastructure files here 👇
 2. VS code installed & configured with terraform & git in windows 10
 
 
-#Steps 
-1️⃣  ##Creating IAM USER and configuring Permissions 
+# Steps 
+---------------------------------------------------------------------------------------------
+1️⃣  ## Creating IAM USER and configuring Permissions 
 
 Go the your AWS account and Follow the Steps.
 ![Screenshot_1](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/17f9c014-cb56-4eb6-80de-e5a4bced67b2) 
