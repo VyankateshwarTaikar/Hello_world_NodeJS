@@ -24,7 +24,7 @@ Find out required Application and infrastructure files here 👇
 
 # Steps 
 ---------------------------------------------------------------------------------------------
-# 1  
+# 1  ======>>   ======>>    ======>>   
 ## Creating IAM USER and configuring Permissions 
 
 Go the your AWS account and Follow the Steps.
@@ -51,7 +51,7 @@ Go the your AWS account and Follow the Steps.
 Note: Download .Csv File and keep it Secure . 
 
 
-# 2  
+# 2    ======>>   ======>>    ======>>   
 ## Configure Terraform files & create AWS Infrastructure 
 VS code installed & configured with terraform & git in windows 10   -- As as prerequisite
 
@@ -126,7 +126,7 @@ Now , Create subnets so edit vpc.tf
 ![Screenshot_20](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/8b8a9923-738f-4277-9dce-87905781c334)
 
 
-# 3  
+# 3    ======>>   ======>>    ======>>   
 ## Creating repository terraform file and Check with repository in AWS
 
 
@@ -179,8 +179,39 @@ Now , Create subnets so edit vpc.tf
 
 ![Screenshot_41](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/c3a220ff-9074-4a3c-914c-8181e7ed8e0f)
 
+# 4    ======>>   ======>>    ======>>   
+## Creating github workflows for actions 
 
 
+![Screenshot_42](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/17b6e5ee-c445-463e-89b8-ef78c69cecc1)
+
+![Screenshot_42_](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/9e7656b9-231d-41be-a83a-31505774ceac)
+
+
+![Screenshot_42_1](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/1c0286d3-e88e-42fc-b87d-e10e411dc59a)
+
+![Screenshot_43](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/d4286fe7-1930-481d-ad1f-55596839fff7)
+
+
+![Screenshot_44](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/082072ff-ba75-4637-b588-d27c0b9463da)
+
+
+![Screenshot_45](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/d313007c-6972-4419-bc63-4d107c971155)
+
+![Screenshot_46](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/e7dc299f-fbca-4b69-8e77-dc1b4f010dca)
+
+![Screenshot_47](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/48872df3-f974-4edd-8692-0cb7e5fba1e7)
+
+
+![Screenshot_48](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/fb6840f1-3f3e-4347-a9ab-6a9abcea0fe3)
+
+![Screenshot_49](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/ef8e1bd8-a8c6-4272-adc2-64430ff06dfa)
+
+![Screenshot_50](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/df106001-8309-4e6f-8b25-ff7f8ef8dac3)
+
+![Screenshot_51](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/6bcdaea6-979e-4825-ab5f-70228fd81268)
+
+![Screenshot_52](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/18ee64c5-aa46-4db8-8e12-ee1ea7b5487f)
 
 
 
