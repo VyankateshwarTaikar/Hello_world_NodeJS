@@ -16,9 +16,9 @@ Find out required Application and infrastructure files here 👇
 
 ### Note: I am hiding ID & passwords form files & removing after runs the Hello world application
 
-## Requirement 
+## Requirement/ prerequisite
 1. AWS Account
-2. VS code installed & configured with terraform & git in windows 10
+2. VS code with installed & configured with terraform & git in windows 10
 
 
 # Steps 
@@ -50,6 +50,43 @@ Go the your AWS account and Follow the Steps.
 Note: Download .Csv File and keep it Secure . 
 
 
+# 2  
+## Configure Terraform files & create AWS Infrastructure 
+VS code installed & configured with terraform & git in windows 10   -- As as prerequisite
+
+Creating terraform files 
+
+![Screenshot_5](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/5bed3685-adba-4074-a706-251c74b9ded2)
+
+---------------------
+
+![Screenshot_6](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/cc8b8b36-a5bb-4d06-ac1c-61d4021edc82)
+
+
+
+![Screenshot_6_1](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/29a168b6-e66e-479a-9a72-154e4f79a454)
+
+
+
+
+
+
+
+![Screenshot_7](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/1cf1e7a1-1d11-4b13-875b-777fdff6ad36)
+
+![Screenshot_8](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/02125353-3df1-4f95-a58b-5c453d85a969)
+
+
+![Screenshot_9](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/4a656f42-d56a-46e3-b0e6-94e7aadd154f)
+
+
+
+![Screenshot_10](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/310153d1-7906-455d-b570-f63014807975)
+
+
+
+
+![Screenshot_11](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/3039cf2d-9ba6-4787-afdc-287d997ae99e)
 
 
 
