@@ -92,7 +92,7 @@ Now , Create subnets so edit vpc.tf
 
 ![Screenshot_12](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/5b58ad30-2882-40df-856c-1f8d590c899c)
 
-
+![Screenshot_21](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/cd4253bf-c3cf-47a8-81e7-a7c304b24c52)
 
 ![Screenshot_13](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/a41fb682-248f-4f60-80e3-a4e39d5a05f2)
 
