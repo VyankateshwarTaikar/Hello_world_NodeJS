@@ -14,14 +14,46 @@ Hello_world_Nodejs_app
 Find out required Application and infrastructure files here 👇 
 🔗 https://github.com/VyankateshwarTaikar/Hello_world_NodeJS.git 
 
-### Note: i am hiding ID & passwords form files & removing after runs the Hello world application
+### Note: I am hiding ID & passwords form files & removing after runs the Hello world application
 
 ## Requirement 
 1. AWS Account
 2. VS code installed & configured with terraform & git in windows 10
 
 
-Steps 
+#Steps 
+1️⃣  ##Creating IAM USER and configuring Permissions 
+
+Go the your AWS account and Follow the Steps.
+![Screenshot_1](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/17f9c014-cb56-4eb6-80de-e5a4bced67b2) 
+
+![Screenshot_2](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/c47ad414-f19b-45f4-941c-3e8b901a3fe5)
+
+
+![Screenshot_3](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/ccc8595a-74c9-45e0-b240-3c1465199304)
+
+
+
+
+
+![Screenshot_4](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/4b89f7f0-92d8-4a95-af84-a557a14c4f0a)
+
+
+
+
+
+
+![Screenshot_5](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/5bed3685-adba-4074-a706-251c74b9ded2)
+
+
+
+
+
+
+
+
+
+
 
 
 
