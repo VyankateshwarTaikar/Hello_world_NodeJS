@@ -11,14 +11,17 @@ Hello_world_Nodejs_app
 ![Untitled Diagram](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/3b50943c-26eb-414e-9451-31b0bfa29f23) 
 
 
-Find out required Application and infrastructure files here 👇
-🔗 https://github.com/VyankateshwarTaikar/Hello_world_NodeJS.git
+Find out required Application and infrastructure files here 👇 
+🔗 https://github.com/VyankateshwarTaikar/Hello_world_NodeJS.git 
+
+###Note: i am hiding ID & passwords form files & removing after runs the Hello world application
 
 ## Requirement 
 1. AWS Account
 2. VS code installed & configured with terraform & git in windows 10
 
 
+Steps 
 
 
 
