@@ -14,7 +14,7 @@ Hello_world_Nodejs_app
 Find out required Application and infrastructure files here 👇 
 🔗 https://github.com/VyankateshwarTaikar/Hello_world_NodeJS.git 
 
-###Note: i am hiding ID & passwords form files & removing after runs the Hello world application
+### Note: i am hiding ID & passwords form files & removing after runs the Hello world application
 
 ## Requirement 
 1. AWS Account
