@@ -126,7 +126,7 @@ Now , Create subnets so edit vpc.tf
 ![Screenshot_20](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/8b8a9923-738f-4277-9dce-87905781c334)
 
 
-# 2  
+# 3  
 ## Creating repository terraform file and Check with repository in AWS
 
 
