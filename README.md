@@ -154,7 +154,30 @@ Now , Create subnets so edit vpc.tf
 
 ![Screenshot_32](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/dc2a36fe-49db-4a83-b930-4768c370ce19)
 
+## ==>Check With IAM role  from where note ARN and write in ecs.tf ,apply by terraform command and check with in AWS ECS.
 
+![Screenshot_33](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/2dbe5faf-7894-4b9e-8080-39d73b17e7e5)
+
+![Screenshot_34](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/5ae9d1c9-c79f-4de1-bd29-46ed9410f17f)
+
+
+![Screenshot_35](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/a855f2a0-698d-4dee-844a-8251e0713824)
+
+![Screenshot_36](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/f7efc3a0-f908-4c93-b4be-bb00cf03dec7)
+
+
+![Screenshot_37](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/6452eeb5-f28e-48e4-af5a-d51b86a37cc2)
+
+
+![Screenshot_38](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/eef34aa1-a525-42ad-8530-f694c043bc3a)
+
+![Screenshot_39](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/d4481108-8c95-4ec4-bef3-2146e9b766f2)
+![Screenshot_38](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/0c99606a-048c-4053-86b8-f5538cf1fd6b)
+
+![Screenshot_40](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/32ed068d-23ed-4f4f-8a23-9d1dd1081db9)
+
+
+![Screenshot_41](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/c3a220ff-9074-4a3c-914c-8181e7ed8e0f)
 
 
 
