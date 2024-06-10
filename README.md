@@ -216,3 +216,12 @@ Now , Create subnets so edit vpc.tf
 
 ![Screenshot_53](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/a9b3ccdb-48e8-4372-ae0b-e2927757c72e)
 
+
+# 6    ======>>   ======>>    ======>>   
+## Access With the Application for Hellow World 
+As you Update he vpc.tf  it will automatically run the  Github actions. 
+Add with Internet Gateway and Route Table 
+
+![Screenshot_57](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/89b98ae6-eba7-4999-96d6-f0d100c216d1)
+
+
