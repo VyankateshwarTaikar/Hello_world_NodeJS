@@ -207,12 +207,11 @@ Now , Create subnets so edit vpc.tf
 
 ![Screenshot_49](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/ef8e1bd8-a8c6-4272-adc2-64430ff06dfa)
 
-![Screenshot_50](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/df106001-8309-4e6f-8b25-ff7f8ef8dac3)
+# 5    ======>>   ======>>    ======>>   
+## Adding secrets as a AWS_ACCESS_KEY_ID  & AWS_SECRECT_ACCESS_KEY
 
-![Screenshot_51](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/6bcdaea6-979e-4825-ab5f-70228fd81268)
-
-![Screenshot_52](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/18ee64c5-aa46-4db8-8e12-ee1ea7b5487f)
-
+![Screenshot_52](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/b20f2f3b-2e4e-4f3f-bc0e-5d155d558c62)
 
 
+![Screenshot_53](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/a9b3ccdb-48e8-4372-ae0b-e2927757c72e)
 
