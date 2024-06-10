@@ -68,7 +68,7 @@ Creating terraform files
 
 
 
-
+^^  Scrects considering for only this deployment 
 
 
 
