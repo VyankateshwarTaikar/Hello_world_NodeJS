@@ -120,7 +120,7 @@ Now , Create subnets so edit vpc.tf
 ![Screenshot_19](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/e289c45f-f7bc-403e-8e36-0bdefa85915c)
 
 
-== >Check with subnets are created or not.
+== >Check with subnets are created or not & verify with subnetID
 
 ![Screenshot_20](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/8b8a9923-738f-4277-9dce-87905781c334)
 
