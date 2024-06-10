@@ -84,9 +84,46 @@ Creating terraform files
 ![Screenshot_10](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/310153d1-7906-455d-b570-f63014807975)
 
 
-
+Check with AWS Account for VPC is created or not 
 
 ![Screenshot_11](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/3039cf2d-9ba6-4787-afdc-287d997ae99e)
+
+Now , Create subnets so edit vpc.tf 
+
+![Screenshot_12](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/5b58ad30-2882-40df-856c-1f8d590c899c)
+
+
+
+![Screenshot_13](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/a41fb682-248f-4f60-80e3-a4e39d5a05f2)
+
+
+
+
+![Screenshot_14](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/de0c54dd-29a8-4d5f-b662-0b8dd78ad3a5)
+
+
+
+![Screenshot_15](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/9af84398-2b77-4949-999c-e2fec34e0367)
+
+
+
+
+![Screenshot_16](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/4b0699d0-063e-4529-b9a1-8bcd15c5ea7e)
+
+
+
+![Screenshot_17](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/df284453-1d4e-4575-b3f0-88cc5ffd99ad)
+
+
+![Screenshot_18](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/2453e506-bf1e-45da-8a5c-6213fd4ea635)
+
+![Screenshot_19](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/e289c45f-f7bc-403e-8e36-0bdefa85915c)
+
+
+
+
+![Screenshot_20](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/8b8a9923-738f-4277-9dce-87905781c334)
+
 
 
 
