@@ -1,0 +1,63 @@
+name: Deploy to Amazon ECS                 #1 
+on:
+  push:
+    branches:
+      - master
+env:
+  AWS_REGION: us-west-2
+  ECS_CLUSTER: app_cluster  #from clusters -->  cluser name 
+  CONTAINER_NAME: app
+  ECS_SERVICE: app_service    #service name here 
+  ECS_TD: .github/workflows/td.json 
+
+#create a Jobs                               #2 
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    environment: dev
+    #specify the steps 
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1  #command 
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1  #command that we have to used configure
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRECT_ACCESS_KEY }}
+          aws-region: "${{ env.AWS_REGION }}"
+
+      - name: Login to Amazon ECR
+        id: login-ecrg
+        uses: aws-actions/amazon-ecr-login@v1
+        
+        #3 
+      - name: Build, tag, and push image to Amazon ECR
+        id: build-image
+        env:
+          ECR_REGISTRY: "925284924861.dkr.ecr.us-west-2.amazonaws.com/app_repo"
+          ECR_REPOSITORY: "app_repo"
+          IMAGE_TAG: latest
+        run: |
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+          echo "::set-output name=image::$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG"   
+        #displaying latetst build image name 
+
+      - name: Fill in the new image ID in the Amazon ECS task definition
+        id: task-def-1
+        uses: aws-actions/amazon-ecs-render-task-definition@v1       #aws Command
+        with:
+          task-definition: ${{ env.ECS_TD }}
+          container-name: ${{ env.CONTAINER_NAME }}
+          image: ${{ steps.build-image.outputs.image }}    
+
+          #4  to get task defination id 
+      - name: Deploy Amazon ECS task definition
+        uses: aws-actions/amazon-ecs-deploy-task-definition@v1
+        with:
+          task-definition: ${{ steps.task-def-1.outputs.task-definition }}
+          service: ${{ env.ECS_SERVICE }}
+          cluster: ${{ env.ECS_CLUSTER }}
+          wait-for-service-stability: false 
