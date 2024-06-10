@@ -23,7 +23,8 @@ Find out required Application and infrastructure files here 👇
 
 # Steps 
 ---------------------------------------------------------------------------------------------
-1️⃣  ## Creating IAM USER and configuring Permissions 
+# 1  
+## Creating IAM USER and configuring Permissions 
 
 Go the your AWS account and Follow the Steps.
 ![Screenshot_1](https://github.com/VyankateshwarTaikar/Hello_world_NodeJS/assets/102132721/17f9c014-cb56-4eb6-80de-e5a4bced67b2) 
